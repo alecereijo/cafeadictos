@@ -1,0 +1,38 @@
+
+li{
+    display: inline-block;
+    padding: 20px;
+}
+
+body{
+    background-color: #C3CB8E;
+}
+
+.galeria{
+    text-align: center;
+    padding: 25xp;
+    border-color: black;
+}
+
+.columnas{
+    text-align: center;
+    columns: 3;
+    
+}
+
+.mapa{
+    text-align: center;
+}
+
+.comentarios{
+    width: 80%;
+   padding: 10px;
+   columns: 2;
+}
+
+.pie{
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+  
+}
